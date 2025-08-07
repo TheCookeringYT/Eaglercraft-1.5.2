@@ -6,4 +6,4 @@ How to make it work
         
         Step 3: Click the "None" button and click "Main" if its not there click "Master" then click "Save" AND DO NOT CHANGE "/ (root)" AT ALL!------->
         
-        Step 4: After it finishes your website or Github Page it should say 404 Error, now at the URL and type Offline_Download_Version.html and the URL should look like this https://(your or my name idk).github.io/Eaglercraft-1.5.2/Offline_Download_Version.html. Refresh and now you have Eaglercraft 1.5.2 with better FPS!
+        Step 4: After it finishes your website or Github Page it should say 404 Error, now at the URL and type Offline_Download_Version.html and the URL should look like this "https://thecookeringyt.github.io/Eaglercraft-1.5.2/Offline_Download_Version.html". Refresh and now you have Eaglercraft 1.5.2 with better FPS!
