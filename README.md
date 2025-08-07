@@ -1,4 +1,4 @@
-How to Use the code properly: 
+How to use the code properly: 
 
         
 	
