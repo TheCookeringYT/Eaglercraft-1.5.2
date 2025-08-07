@@ -2,7 +2,7 @@ How to use the code properly:
 
         
 	
- Step 1: First, fork the project. Then, next to "Insights" there should be a button called "Settings" next to it. If you clicked on it scroll until it says pages.
+ Step 1: First, fork the project. Then, next to "Insights" there should be a button called "Settings" next to it. If you clicked on it find "Pages".
         
         
 	
